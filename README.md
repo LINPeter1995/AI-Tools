@@ -1,1 +1,1 @@
-# AI-Tools-for-Work
+# AI-Tools
